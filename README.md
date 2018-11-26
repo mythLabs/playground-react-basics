@@ -6,4 +6,4 @@ An application that requests access to user's location through the browser and d
 ### Steps to run:
 ### npm install
 
-### npm start
+### npm start 
